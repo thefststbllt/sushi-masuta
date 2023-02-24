@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/sushi-masuta/static/css/main.adcb1cfb.chunk.css",
-    "main.js": "/sushi-masuta/static/js/main.e8b4533c.chunk.js",
-    "main.js.map": "/sushi-masuta/static/js/main.e8b4533c.chunk.js.map",
+    "main.js": "/sushi-masuta/static/js/main.13bd0766.chunk.js",
+    "main.js.map": "/sushi-masuta/static/js/main.13bd0766.chunk.js.map",
     "runtime-main.js": "/sushi-masuta/static/js/runtime-main.379dffe2.js",
     "runtime-main.js.map": "/sushi-masuta/static/js/runtime-main.379dffe2.js.map",
     "static/js/2.fefcc11e.chunk.js": "/sushi-masuta/static/js/2.fefcc11e.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.379dffe2.js",
     "static/js/2.fefcc11e.chunk.js",
     "static/css/main.adcb1cfb.chunk.css",
-    "static/js/main.e8b4533c.chunk.js"
+    "static/js/main.13bd0766.chunk.js"
   ]
 }
