@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/sushi-masuta/static/css/main.adcb1cfb.chunk.css",
+    "main.js": "/sushi-masuta/static/js/main.e8b4533c.chunk.js",
+    "main.js.map": "/sushi-masuta/static/js/main.e8b4533c.chunk.js.map",
+    "runtime-main.js": "/sushi-masuta/static/js/runtime-main.379dffe2.js",
+    "runtime-main.js.map": "/sushi-masuta/static/js/runtime-main.379dffe2.js.map",
+    "static/js/2.fefcc11e.chunk.js": "/sushi-masuta/static/js/2.fefcc11e.chunk.js",
+    "static/js/2.fefcc11e.chunk.js.map": "/sushi-masuta/static/js/2.fefcc11e.chunk.js.map",
+    "index.html": "/sushi-masuta/index.html",
+    "static/css/main.adcb1cfb.chunk.css.map": "/sushi-masuta/static/css/main.adcb1cfb.chunk.css.map",
+    "static/js/2.fefcc11e.chunk.js.LICENSE.txt": "/sushi-masuta/static/js/2.fefcc11e.chunk.js.LICENSE.txt",
+    "static/media/background-sushi.57a60759.webp": "/sushi-masuta/static/media/background-sushi.57a60759.webp",
+    "static/media/Header.module.css": "/sushi-masuta/static/media/logo.58cc8f04.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.379dffe2.js",
+    "static/js/2.fefcc11e.chunk.js",
+    "static/css/main.adcb1cfb.chunk.css",
+    "static/js/main.e8b4533c.chunk.js"
+  ]
+}
